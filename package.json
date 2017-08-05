@@ -1,0 +1,15 @@
+{
+  "name": "bch-block-texter",
+  "version": "1.0.0",
+  "description": "A thing that texts you when a new BCH block is mined..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-json": "^0.6.2",
+    "twilio": "^3.6.1"
+  }
+}
